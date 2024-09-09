@@ -10,3 +10,6 @@ As time passes, I will upload files and links to my learnings here (Github) and 
 I hope other beginners find this helpful or inspiring to begin their journey!
 
 https://www.loom.com/share/fead85b38ccd483c9f4ef56eab50e33a?sid=7398a8c1-3eab-45d6-b928-5807a9a8c6a5
+
+## If you'd like to support my learning journey, you can do so here! 
+https://buymeacoffee.com/petex47
