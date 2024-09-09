@@ -12,4 +12,5 @@ I hope other beginners find this helpful or inspiring to begin their journey!
 https://www.loom.com/share/fead85b38ccd483c9f4ef56eab50e33a?sid=7398a8c1-3eab-45d6-b928-5807a9a8c6a5
 
 ## If you'd like to support my learning journey, you can do so here! 
+My goal is to break into tech and transition from a line cook to a network engineer so I can provide for my family. Tech certifications are expensive, and they're hard to pay for on a line cook salary, so if you'd like to help, you can do so here!
 https://buymeacoffee.com/petex47
